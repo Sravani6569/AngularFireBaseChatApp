@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firstchatapp-2a3c3": {
+      "hosting": {
+        "accubits-chat-app": [
+          "firstchatapp-2a3c3"
+        ]
+      }
+    }
+  }
+}
